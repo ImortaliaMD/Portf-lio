@@ -34,5 +34,6 @@ Veja os tutoriais publicados do Sigmoidal: utilizar o bitly para encurtar as URL
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 https://docs.google.com/document/d/1x50i3H8h88j-zxEn-rroRTEek8ILB7QsEMX6y1oso3g/edit
+https://medium.com/
 
 
